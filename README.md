@@ -1,9 +1,9 @@
 # Information and Network Security
-A bunch of few codes related to INS.
+A bunch of codes related to INS.
 <hr>
 
 ## Notebook Used:
-Google Colab
+<a href="https://colab.research.google.com/">Google Colab</a>
 <hr>
 
 ## License
